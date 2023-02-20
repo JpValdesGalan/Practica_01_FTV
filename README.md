@@ -1,2 +1,11 @@
-# Practica_01_FTV
-La práctica consistirá en la creación de un repositorio y la manipulación del mismo. En él, tendremos una pequeña página WEB con distintos archivos. Generaremos ramas para hacer distintas funciones y probaremos ignorar archivos.
+# Practica 1
+
+Esta práctica consistió en crear una página HTML muy básica con estilos y un archivo de JS para ejecutar algunas funciones.
+
+## Cómo ver la practica
+
+Para ver la práctica, sólo hay que descargar los archivos y ejecutar Live Server de Visual Studio. Además, hay que abrir el "inspeccionar" de Chrome para poder ver la salida de las funciones de JS:
+
+```javascript
+console.log("Resta:", res);
+```
